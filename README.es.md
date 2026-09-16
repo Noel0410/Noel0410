@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Noel Escobar 👋</h1>
+  <h1>¡Hola! Soy Noel Escobar 👋</h1>
   <p>
-    <strong>Backend Developer</strong> | <strong>Computer Engineering Student @ Universidad de Buenos Aires (UBA)</strong>
+    <strong>Desarrollador Backend</strong> | <strong>Estudiante de Ingeniería en Informática @ Universidad de Buenos Aires (UBA)</strong>
   </p>
   
   <p>
@@ -19,32 +19,32 @@
     <a href="https://github.com/Noel0410">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Buenos_Aires%2C_Argentina-008080?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Ubicación-Buenos_Aires%2C_Argentina-008080?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación" />
   </p>
 
   <a href="https://github.com/Noel0410">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=Backend+Developer;Computer+Engineering+Student+%40+UBA;Java+17+%7C+Spring+Boot+%7C+PostgreSQL;Docker+%7C+JWT+%7C+RESTful+APIs;Looking+for+Part-Time+Backend+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=Desarrollador+Backend;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica+%40+UBA;Java+17+%7C+Spring+Boot+%7C+PostgreSQL;Docker+%7C+JWT+%7C+APIs+REST;En+b%C3%BAsqueda+de+oportunidades+Part-Time" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mí
 
-I am a **4th-year Computer Engineering student at Universidad de Buenos Aires (UBA)** with a solid theoretical and practical foundation in software engineering, algorithmic design, computer systems, and relational databases.
+Soy estudiante de **4.º año de Ingeniería en Informática en la Universidad de Buenos Aires (UBA)**, con una sólida base teórica y práctica en desarrollo de software, diseño de algoritmos, sistemas operativos y bases de datos.
 
-My core expertise is in **Backend Development**, building secure, scalable, and maintainable web services and REST APIs with **Java 17, Spring Boot, Spring Security (JWT / RBAC), and PostgreSQL**. I also have experience with full-stack technologies (React, TypeScript), containerized environments (Docker), and low-level systems programming (Assembly x86-64, C/C++).
+Mi especialidad principal es el **Desarrollo Backend**, enfocado en la construcción de APIs RESTful seguras, escalables y mantenibles utilizando **Java 17, Spring Boot, Spring Security (JWT / RBAC) y PostgreSQL**. Cuento además con experiencia en el stack frontend (React, TypeScript), entornos contenerizados (Docker) y programación de bajo nivel (Assembly x86-64, C/C++).
 
-- 🎓 **Education:** Computer Engineering at **Universidad de Buenos Aires (UBA)** — 4th year.
-- 🎯 **Current Objective:** Actively seeking **Backend Developer** opportunities compatible with university coursework.
-- 💡 **Key Interests:** Distributed systems, backend architecture, clean code, database optimization, and high-performance computing.
-- 💬 **Languages:** Spanish (Native), English (Intermediate - B2).
+- 🎓 **Formación:** Ingeniería en Informática en la **Universidad de Buenos Aires (UBA)** — 4.° año en curso.
+- 🎯 **Objetivo Actual:** En búsqueda activa de posiciones **en desarrollo backend** compatibles con la cursada universitaria.
+- 💡 **Intereses:** Arquitectura backend, microservicios, seguridad y control de acceso (RBAC), optimización de bases de datos y clean code.
+- 💬 **Idiomas:** Español (Nativo), Inglés (Intermedio - B2).
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tecnologías y Herramientas
 
-#### ☕ Backend & Core Languages
+#### ☕ Backend y Lenguajes Principales
 <p>
   <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -58,7 +58,7 @@ My core expertise is in **Backend Development**, building secure, scalable, and 
   <img src="https://img.shields.io/badge/Assembly_x86--64-222222?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly x86" />
 </p>
 
-#### 🗄️ Databases & DevOps
+#### 🗄️ Bases de Datos y DevOps
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -69,37 +69,37 @@ My core expertise is in **Backend Development**, building secure, scalable, and 
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
 </p>
 
-#### 🌐 Frontend & UI
+#### 🌐 Frontend y Full-Stack
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
 </p>
 
-#### 📐 Software Engineering & Practices
+#### 📐 Ingeniería de Software y Metodologías
 <p>
-  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/APIs_RESTful-005571?style=for-the-badge&logoColor=white" alt="APIs REST" />
   <img src="https://img.shields.io/badge/JWT_&_RBAC-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT & RBAC" />
-  <img src="https://img.shields.io/badge/OOP_&_Clean_Code-4B0082?style=for-the-badge&logoColor=white" alt="OOP & Clean Code" />
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1E88E5?style=for-the-badge&logoColor=white" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/POO_&_Clean_Code-4B0082?style=for-the-badge&logoColor=white" alt="POO y Clean Code" />
+  <img src="https://img.shields.io/badge/Estructuras_de_Datos_&_Algoritmos-1E88E5?style=for-the-badge&logoColor=white" alt="Algoritmos" />
   <img src="https://img.shields.io/badge/Unit_Testing-2E7D32?style=for-the-badge&logoColor=white" alt="Testing" />
-  <img src="https://img.shields.io/badge/Scrum_&_Agile-007ACC?style=for-the-badge&logoColor=white" alt="Scrum & Agile" />
+  <img src="https://img.shields.io/badge/Scrum_&_Agile-007ACC?style=for-the-badge&logoColor=white" alt="Scrum" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏆 <a href="https://github.com/Noel0410/quinielaMundial">Quiniela del Mundial</a></h3>
-      <p><em>Personal Project</em></p>
-      <p>Full-stack web application to organize and manage sports tournament prediction pools (quinielas) between users.</p>
+      <p><em>Proyecto Personal</em></p>
+      <p>Aplicación web full-stack para organizar y gestionar quinielas y predicciones deportivas entre usuarios y comunidades.</p>
       <ul>
-        <li><strong>Backend:</strong> RESTful architecture with <strong>Spring Boot</strong>, <strong>Spring Data JPA</strong>, and <strong>PostgreSQL</strong>.</li>
-        <li><strong>Security:</strong> Authentication and role-based authorization (RBAC) powered by <strong>Spring Security</strong> & <strong>JWT</strong>.</li>
-        <li><strong>Features:</strong> User registration, community leagues, match prediction submission, automated scoring engine, and admin dashboard.</li>
+        <li><strong>Backend:</strong> Arquitectura REST con <strong>Spring Boot</strong>, <strong>Spring Data JPA</strong> y <strong>PostgreSQL</strong>.</li>
+        <li><strong>Seguridad:</strong> Autenticación y autorización basada en roles (RBAC) con <strong>Spring Security</strong> y <strong>JWT</strong>.</li>
+        <li><strong>Funcionalidades:</strong> Registro de usuarios, ligas privadas/públicas, carga de predicciones, cálculo automatizado de puntajes y panel de administración.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -110,12 +110,12 @@ My core expertise is in **Backend Development**, building secure, scalable, and 
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://github.com/Noel0410/sistema-comedor-universitario">Sistema Comedor Universitario</a></h3>
-      <p><em>Academic Project</em></p>
-      <p>University campus cafeteria management system for dining services and meal orders.</p>
+      <p><em>Proyecto Académico</em></p>
+      <p>Plataforma para la administración integral de pedidos y servicios del comedor universitario.</p>
       <ul>
-        <li><strong>Security Module:</strong> Implemented robust authentication with <strong>JWT</strong> (access & refresh token flow) and role-based access control (<strong>RBAC</strong>).</li>
-        <li><strong>Core Flow:</strong> Interactive meal catalog with real-time live search, cart state management, and simulated payment checkout flow.</li>
-        <li><strong>Full-Stack:</strong> Spring Boot backend with React and TypeScript frontend integration.</li>
+        <li><strong>Módulo de Seguridad:</strong> Implementación de autenticación con <strong>JWT</strong> (flujo de access y refresh tokens) y control de accesos basado en roles (<strong>RBAC</strong>).</li>
+        <li><strong>Flujo Principal:</strong> Catálogo interactivo con buscador en tiempo real, carrito de compras y checkout con simulación de pagos.</li>
+        <li><strong>Full-Stack:</strong> Backend en Spring Boot integrado con frontend en React y TypeScript.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -128,12 +128,12 @@ My core expertise is in **Backend Development**, building secure, scalable, and 
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://github.com/Noel0410/propdesk">PropDesk (Gestor de Alquileres)</a></h3>
-      <p><em>Academic Project</em></p>
-      <p>Real estate management software for managing property portfolios, rental units, and landlords.</p>
+      <p><em>Proyecto Académico</em></p>
+      <p>Sistema de gestión inmobiliaria para administración de edificios, alquileres en bloque y propietarios.</p>
       <ul>
-        <li><strong>API & Frontend:</strong> Full CRUD operations for buildings and owners via Spring Boot REST API and React/TypeScript.</li>
-        <li><strong>Analytics:</strong> Financial reporting panels and secure JWT user session management.</li>
-        <li><strong>Deployment:</strong> Containerized local development and orchestration with <strong>Docker Compose</strong>.</li>
+        <li><strong>API y Frontend:</strong> CRUD completo de edificios y propietarios integrando Spring Boot con React y TypeScript.</li>
+        <li><strong>Reportes y Autenticación:</strong> Paneles con reportes financieros y sesiones seguras mediante JWT.</li>
+        <li><strong>Infraestructura:</strong> Entorno de desarrollo local y despliegue orquestado con <strong>Docker Compose</strong>.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -144,12 +144,12 @@ My core expertise is in **Backend Development**, building secure, scalable, and 
     </td>
     <td width="50%" valign="top">
       <h3>🐺 <a href="https://github.com/Vityyy/el-zorro-y-las-ocas">El Zorro y las Ocas</a></h3>
-      <p><em>Academic / Systems Programming</em></p>
-      <p>Terminal-based traditional board game engineered in low-level Assembly for Linux.</p>
+      <p><em>Proyecto Académico / Sistemas y Bajo Nivel</em></p>
+      <p>Videojuego de tablero por terminal desarrollado íntegramente en Assembly x86-64 para Linux.</p>
       <ul>
-        <li><strong>Low-Level Architecture:</strong> Contiguous memory representation of a 7x7 board with direct memory offset calculations for CLI rendering.</li>
-        <li><strong>Logic:</strong> Geometric movement validation, collision prevention, and game loop management.</li>
-        <li><strong>ABI Compliance:</strong> Seamless interoperability with the C runtime library (libc) following the System V x86-64 ABI standard.</li>
+        <li><strong>Arquitectura de Bajo Nivel:</strong> Representación en memoria contigua de grilla 7x7 con cálculo de offsets para renderizado directo en CLI.</li>
+        <li><strong>Lógica de Motor:</strong> Validación geométrica de movimientos y prevención de colisiones.</li>
+        <li><strong>Cumplimiento ABI:</strong> Interoperabilidad con llamadas al runtime de C (libc) respetando el estándar System V ABI x86-64.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Assembly_x86--64-222222?style=flat-square&logo=assemblyscript&logoColor=white" />
@@ -163,9 +163,9 @@ My core expertise is in **Backend Development**, building secure, scalable, and 
 
 ---
 
-### 📬 Contact & Connect
+### 📬 Contacto
 
-I am always interested in discussing backend development, software architecture, open-source projects, and new professional opportunities.
+Estoy siempre abierto a conversar sobre desarrollo, arquitectura de software, proyectos open-source y nuevas oportunidades profesionales.
 
 <div align="center">
   <a href="https://linkedin.com/in/noel-escobar-040bb7318">
